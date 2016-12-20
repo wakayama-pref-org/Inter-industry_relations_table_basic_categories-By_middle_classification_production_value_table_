@@ -1,4 +1,4 @@
-# Inter-industry_relations_table_basic_categories-By_middle_classification_production_value_table_
+# inter-industry_relations_table_basic_categories-by_middle_classification_production_value_table_
 　【和歌山県　産業連関表です。】
 ◆産業連関表とは
 １年間に県内において行われた様々な産業間の取引を一つの表にまとめたもので、
